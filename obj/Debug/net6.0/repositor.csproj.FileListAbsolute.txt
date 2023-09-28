@@ -1,0 +1,14 @@
+C:\Users\drono\source\repos\repositor\repositor\bin\Debug\net6.0\repositor.exe
+C:\Users\drono\source\repos\repositor\repositor\bin\Debug\net6.0\repositor.deps.json
+C:\Users\drono\source\repos\repositor\repositor\bin\Debug\net6.0\repositor.runtimeconfig.json
+C:\Users\drono\source\repos\repositor\repositor\bin\Debug\net6.0\repositor.dll
+C:\Users\drono\source\repos\repositor\repositor\bin\Debug\net6.0\repositor.pdb
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.AssemblyInfoInputs.cache
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.AssemblyInfo.cs
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.csproj.CoreCompileInputs.cache
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.dll
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\refint\repositor.dll
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.pdb
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\repositor.genruntimeconfig.cache
+C:\Users\drono\source\repos\repositor\repositor\obj\Debug\net6.0\ref\repositor.dll
